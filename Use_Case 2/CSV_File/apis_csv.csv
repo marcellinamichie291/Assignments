@@ -1,0 +1,1426 @@
+,API,Auth,HTTPS,Cors,Category
+0,AdoptAPet,apiKey,True,yes,Animals
+1,Axolotl,,True,no,Animals
+2,Cat Facts,,True,no,Animals
+3,Cataas,,True,no,Animals
+4,Cats,apiKey,True,no,Animals
+5,Dog Facts,,True,yes,Animals
+6,Dog Facts,,True,yes,Animals
+7,Dogs,,True,yes,Animals
+8,eBird,apiKey,True,no,Animals
+9,FishWatch,,True,yes,Animals
+10,HTTP Cat,,True,yes,Animals
+11,HTTP Dog,,True,yes,Animals
+12,IUCN,apiKey,False,no,Animals
+13,MeowFacts,,True,no,Animals
+14,Movebank,,True,yes,Animals
+15,Petfinder,apiKey,True,yes,Animals
+16,PlaceBear,,True,yes,Animals
+17,PlaceDog,,True,yes,Animals
+18,PlaceKitten,,True,yes,Animals
+19,RandomDog,,True,yes,Animals
+20,RandomDuck,,True,no,Animals
+21,RandomFox,,True,no,Animals
+22,RescueGroups,,True,unknown,Animals
+23,Shibe.Online,,True,yes,Animals
+24,The Dog,apiKey,True,no,Animals
+25,xeno-canto,,True,unknown,Animals
+26,Zoo Animals,,True,yes,Animals
+27,AniAPI,OAuth,True,yes,Anime
+28,AniDB,apiKey,False,unknown,Anime
+29,AniList,OAuth,True,unknown,Anime
+30,AnimeChan,,True,no,Anime
+31,AnimeFacts,,True,yes,Anime
+32,AnimeNewsNetwork,,True,yes,Anime
+33,Catboy,,True,yes,Anime
+34,Danbooru Anime,apiKey,True,yes,Anime
+35,Jikan,,True,yes,Anime
+36,Kitsu,OAuth,True,yes,Anime
+37,MangaDex,apiKey,True,unknown,Anime
+38,Mangapi,apiKey,True,unknown,Anime
+39,MyAnimeList,OAuth,True,unknown,Anime
+40,NekosBest,,True,yes,Anime
+41,Shikimori,OAuth,True,unknown,Anime
+42,Studio Ghibli,,True,yes,Anime
+43,Trace Moe,,True,no,Anime
+44,Waifu.im,,True,yes,Anime
+45,Waifu.pics,,True,no,Anime
+46,AbuseIPDB,apiKey,True,unknown,Anti-Malware
+47,AlienVault Open Threat Exchange (OTX),apiKey,True,unknown,Anti-Malware
+48,CAPEsandbox,apiKey,True,unknown,Anti-Malware
+49,Google Safe Browsing,apiKey,True,unknown,Anti-Malware
+50,MalDatabase,apiKey,True,unknown,Anti-Malware
+51,MalShare,apiKey,True,no,Anti-Malware
+52,MalwareBazaar,apiKey,True,unknown,Anti-Malware
+53,Metacert,apiKey,True,unknown,Anti-Malware
+54,NoPhishy,apiKey,True,yes,Anti-Malware
+55,Phisherman,apiKey,True,unknown,Anti-Malware
+56,Scanii,apiKey,True,yes,Anti-Malware
+57,URLhaus,,True,yes,Anti-Malware
+58,URLScan.io,apiKey,True,unknown,Anti-Malware
+59,VirusTotal,apiKey,True,unknown,Anti-Malware
+60,Web of Trust,apiKey,True,unknown,Anti-Malware
+61,Améthyste,apiKey,True,unknown,Art & Design
+62,Art Institute of Chicago,,True,yes,Art & Design
+63,Colormind,,False,unknown,Art & Design
+64,ColourLovers,,False,unknown,Art & Design
+65,Cooper Hewitt,apiKey,True,unknown,Art & Design
+66,Dribbble,OAuth,True,unknown,Art & Design
+67,EmojiHub,,True,yes,Art & Design
+68,Europeana,apiKey,True,unknown,Art & Design
+69,Harvard Art Museums,apiKey,False,unknown,Art & Design
+70,Icon Horse,,True,yes,Art & Design
+71,Iconfinder,apiKey,True,unknown,Art & Design
+72,Icons8,,True,unknown,Art & Design
+73,Lordicon,,True,yes,Art & Design
+74,Metropolitan Museum of Art,,True,no,Art & Design
+75,Noun Project,OAuth,False,unknown,Art & Design
+76,PHP-Noise,,True,yes,Art & Design
+77,Pixel Encounter,,True,no,Art & Design
+78,Rijksmuseum,apiKey,True,unknown,Art & Design
+79,Word Cloud,apiKey,True,unknown,Art & Design
+80,xColors,,True,yes,Art & Design
+81,Auth0,apiKey,True,yes,Authentication & Authorization
+82,GetOTP,apiKey,True,no,Authentication & Authorization
+83,Micro User Service,apiKey,True,no,Authentication & Authorization
+84,MojoAuth,apiKey,True,yes,Authentication & Authorization
+85,SAWO Labs,apiKey,True,yes,Authentication & Authorization
+86,Stytch,apiKey,True,no,Authentication & Authorization
+87,Warrant,apiKey,True,yes,Authentication & Authorization
+88,Bitquery,apiKey,True,yes,Blockchain
+89,Chainlink,,True,unknown,Blockchain
+90,Chainpoint,,True,unknown,Blockchain
+91,Covalent,apiKey,True,unknown,Blockchain
+92,Etherscan,apiKey,True,yes,Blockchain
+93,Helium,,True,unknown,Blockchain
+94,Nownodes,apiKey,True,unknown,Blockchain
+95,Steem,,False,no,Blockchain
+96,The Graph,apiKey,True,unknown,Blockchain
+97,Walltime,,True,unknown,Blockchain
+98,Watchdata,apiKey,True,unknown,Blockchain
+99,A Bíblia Digital,apiKey,True,no,Books
+100,Bhagavad Gita,apiKey,True,yes,Books
+101,Bhagavad Gita,OAuth,True,yes,Books
+102,Bhagavad Gita telugu,,True,yes,Books
+103,Bible-api,,True,yes,Books
+104,British National Bibliography,,False,unknown,Books
+105,Crossref Metadata Search,,True,unknown,Books
+106,Ganjoor,OAuth,True,yes,Books
+107,Google Books,OAuth,True,unknown,Books
+108,GurbaniNow,,True,unknown,Books
+109,Gutendex,,True,unknown,Books
+110,Open Library,,True,no,Books
+111,Penguin Publishing,,True,yes,Books
+112,PoetryDB,,True,yes,Books
+113,Quran,,True,yes,Books
+114,Quran Cloud,,True,yes,Books
+115,Quran-api,,True,yes,Books
+116,Rig Veda,,True,unknown,Books
+117,The Bible,apiKey,True,unknown,Books
+118,Thirukkural,,True,yes,Books
+119,Vedic Society,,True,unknown,Books
+120,Wizard World,,True,yes,Books
+121,Wolne Lektury,,True,unknown,Books
+122,Apache Superset,apiKey,True,yes,Business
+123,Charity Search,apiKey,False,unknown,Business
+124,Clearbit Logo,apiKey,True,unknown,Business
+125,Domainsdb.info,,True,no,Business
+126,Freelancer,OAuth,True,unknown,Business
+127,Gmail,OAuth,True,unknown,Business
+128,Google Analytics,OAuth,True,unknown,Business
+129,Instatus,apiKey,True,unknown,Business
+130,Mailchimp,apiKey,True,unknown,Business
+131,mailjet,apiKey,True,unknown,Business
+132,markerapi,,False,unknown,Business
+133,ORB Intelligence,apiKey,True,unknown,Business
+134,Redash,apiKey,True,yes,Business
+135,Smartsheet,OAuth,True,no,Business
+136,Square,OAuth,True,unknown,Business
+137,SwiftKanban,apiKey,True,unknown,Business
+138,Tenders in Hungary,,True,unknown,Business
+139,Tenders in Poland,,True,unknown,Business
+140,Tenders in Romania,,True,unknown,Business
+141,Tenders in Spain,,True,unknown,Business
+142,Tenders in Ukraine,,True,unknown,Business
+143,Tomba email finder,apiKey,True,yes,Business
+144,Trello,OAuth,True,unknown,Business
+145,Abstract Public Holidays,apiKey,True,yes,Calendar
+146,Calendarific,apiKey,True,unknown,Calendar
+147,Checkiday - National Holiday API,apiKey,True,unknown,Calendar
+148,Church Calendar,,False,unknown,Calendar
+149,Czech Namedays Calendar,,False,unknown,Calendar
+150,Festivo Public Holidays,apiKey,True,yes,Calendar
+151,Google Calendar,OAuth,True,unknown,Calendar
+152,Hebrew Calendar,,False,unknown,Calendar
+153,Holidays,apiKey,True,unknown,Calendar
+154,LectServe,,False,unknown,Calendar
+155,Nager.Date,,True,no,Calendar
+156,Namedays Calendar,,True,yes,Calendar
+157,Non-Working Days,,True,unknown,Calendar
+158,Non-Working Days,,True,yes,Calendar
+159,Russian Calendar,,True,no,Calendar
+160,UK Bank Holidays,,True,unknown,Calendar
+161,AnonFiles,,True,unknown,Cloud Storage & File Sharing
+162,BayFiles,,True,unknown,Cloud Storage & File Sharing
+163,Box,OAuth,True,unknown,Cloud Storage & File Sharing
+164,ddownload,apiKey,True,unknown,Cloud Storage & File Sharing
+165,Dropbox,OAuth,True,unknown,Cloud Storage & File Sharing
+166,File.io,,True,unknown,Cloud Storage & File Sharing
+167,Filestack,apiKey,True,unknown,Cloud Storage & File Sharing
+168,GoFile,apiKey,True,unknown,Cloud Storage & File Sharing
+169,Google Drive,OAuth,True,unknown,Cloud Storage & File Sharing
+170,Gyazo,apiKey,True,unknown,Cloud Storage & File Sharing
+171,Imgbb,apiKey,True,unknown,Cloud Storage & File Sharing
+172,OneDrive,OAuth,True,unknown,Cloud Storage & File Sharing
+173,Pantry,,True,yes,Cloud Storage & File Sharing
+174,Pastebin,apiKey,True,unknown,Cloud Storage & File Sharing
+175,Pinata,apiKey,True,unknown,Cloud Storage & File Sharing
+176,Quip,apiKey,True,yes,Cloud Storage & File Sharing
+177,Storj,apiKey,True,unknown,Cloud Storage & File Sharing
+178,The Null Pointer,,True,unknown,Cloud Storage & File Sharing
+179,Web3 Storage,apiKey,True,yes,Cloud Storage & File Sharing
+180,Azure DevOps Health,apiKey,False,no,Continuous Integration
+181,Bitrise,apiKey,True,unknown,Continuous Integration
+182,Buddy,OAuth,True,unknown,Continuous Integration
+183,CircleCI,apiKey,True,unknown,Continuous Integration
+184,Codeship,apiKey,True,unknown,Continuous Integration
+185,Travis CI,apiKey,True,unknown,Continuous Integration
+186,0x,,True,yes,Cryptocurrency
+187,1inch,,True,unknown,Cryptocurrency
+188,Alchemy Ethereum,apiKey,True,yes,Cryptocurrency
+189,apilayer coinlayer,apiKey,True,unknown,Cryptocurrency
+190,Binance,apiKey,True,unknown,Cryptocurrency
+191,Bitcambio,,True,unknown,Cryptocurrency
+192,BitcoinAverage,apiKey,True,unknown,Cryptocurrency
+193,BitcoinCharts,,True,unknown,Cryptocurrency
+194,Bitfinex,apiKey,True,unknown,Cryptocurrency
+195,Bitmex,apiKey,True,unknown,Cryptocurrency
+196,Bittrex,apiKey,True,unknown,Cryptocurrency
+197,Block,apiKey,True,unknown,Cryptocurrency
+198,Blockchain,apiKey,True,unknown,Cryptocurrency
+199,blockfrost Cardano,apiKey,True,unknown,Cryptocurrency
+200,Brave NewCoin,apiKey,True,unknown,Cryptocurrency
+201,BtcTurk,apiKey,True,yes,Cryptocurrency
+202,Bybit,apiKey,True,unknown,Cryptocurrency
+203,CoinAPI,apiKey,True,no,Cryptocurrency
+204,Coinbase,apiKey,True,unknown,Cryptocurrency
+205,Coinbase Pro,apiKey,True,unknown,Cryptocurrency
+206,CoinCap,,True,unknown,Cryptocurrency
+207,CoinDCX,apiKey,True,unknown,Cryptocurrency
+208,CoinDesk,,True,unknown,Cryptocurrency
+209,CoinGecko,,True,yes,Cryptocurrency
+210,Coinigy,apiKey,True,unknown,Cryptocurrency
+211,Coinlib,apiKey,True,unknown,Cryptocurrency
+212,Coinlore,,True,unknown,Cryptocurrency
+213,CoinMarketCap,apiKey,True,unknown,Cryptocurrency
+214,Coinpaprika,,True,yes,Cryptocurrency
+215,CoinRanking,apiKey,True,unknown,Cryptocurrency
+216,Coinremitter,apiKey,True,unknown,Cryptocurrency
+217,CoinStats,,True,unknown,Cryptocurrency
+218,CryptAPI,,True,unknown,Cryptocurrency
+219,CryptingUp,,True,unknown,Cryptocurrency
+220,CryptoCompare,,True,unknown,Cryptocurrency
+221,CryptoMarket,apiKey,True,yes,Cryptocurrency
+222,Cryptonator,,True,unknown,Cryptocurrency
+223,dYdX,apiKey,True,unknown,Cryptocurrency
+224,Ethplorer,apiKey,True,unknown,Cryptocurrency
+225,EXMO,apiKey,True,unknown,Cryptocurrency
+226,FTX,apiKey,True,yes,Cryptocurrency
+227,Gateio,apiKey,True,unknown,Cryptocurrency
+228,Gemini,,True,unknown,Cryptocurrency
+229,Hirak Exchange Rates,apiKey,True,unknown,Cryptocurrency
+230,Huobi,apiKey,True,unknown,Cryptocurrency
+231,icy.tools,apiKey,True,unknown,Cryptocurrency
+232,Indodax,apiKey,True,unknown,Cryptocurrency
+233,INFURA Ethereum,apiKey,True,yes,Cryptocurrency
+234,Kraken,apiKey,True,unknown,Cryptocurrency
+235,KuCoin,apiKey,True,unknown,Cryptocurrency
+236,Localbitcoins,,True,unknown,Cryptocurrency
+237,Mempool,,True,no,Cryptocurrency
+238,MercadoBitcoin,,True,unknown,Cryptocurrency
+239,Messari,,True,unknown,Cryptocurrency
+240,Nexchange,,False,yes,Cryptocurrency
+241,Nomics,apiKey,True,yes,Cryptocurrency
+242,NovaDax,apiKey,True,unknown,Cryptocurrency
+243,OKEx,apiKey,True,unknown,Cryptocurrency
+244,Poloniex,apiKey,True,unknown,Cryptocurrency
+245,Solana JSON RPC,,True,unknown,Cryptocurrency
+246,Technical Analysis,apiKey,True,no,Cryptocurrency
+247,VALR,apiKey,True,unknown,Cryptocurrency
+248,WorldCoinIndex,apiKey,True,unknown,Cryptocurrency
+249,ZMOK,,True,unknown,Cryptocurrency
+250,1Forge,apiKey,True,unknown,Currency Exchange
+251,Amdoren,apiKey,True,unknown,Currency Exchange
+252,apilayer fixer.io,apiKey,False,unknown,Currency Exchange
+253,Bank of Russia,,True,unknown,Currency Exchange
+254,Currency-api,,True,yes,Currency Exchange
+255,CurrencyFreaks,apiKey,True,yes,Currency Exchange
+256,Currencylayer,apiKey,True,unknown,Currency Exchange
+257,CurrencyScoop,apiKey,True,yes,Currency Exchange
+258,Czech National Bank,,True,unknown,Currency Exchange
+259,Economia.Awesome,,True,unknown,Currency Exchange
+260,ExchangeRate-API,apiKey,True,yes,Currency Exchange
+261,Exchangerate.host,,True,unknown,Currency Exchange
+262,Exchangeratesapi.io,apiKey,True,yes,Currency Exchange
+263,Frankfurter,,True,yes,Currency Exchange
+264,FreeForexAPI,,True,no,Currency Exchange
+265,National Bank of Poland,,True,yes,Currency Exchange
+266,VATComply.com,,True,yes,Currency Exchange
+267,Lob.com,apiKey,True,unknown,Data Validation
+268,Postman Echo,,True,unknown,Data Validation
+269,PurgoMalum,,False,unknown,Data Validation
+270,US Autocomplete,apiKey,True,yes,Data Validation
+271,US Extract,apiKey,True,yes,Data Validation
+272,US Street Address,apiKey,True,yes,Data Validation
+273,vatlayer,apiKey,True,unknown,Data Validation
+274,24 Pull Requests,,True,yes,Development
+275,Abstract Screenshot,apiKey,True,yes,Development
+276,Agify.io,,True,yes,Development
+277,API Grátis,,True,unknown,Development
+278,ApicAgent,,True,yes,Development
+279,ApiFlash,apiKey,True,unknown,Development
+280,apilayer userstack,OAuth,True,unknown,Development
+281,APIs.guru,,True,unknown,Development
+282,Azure DevOps,apiKey,True,unknown,Development
+283,Base,apiKey,True,yes,Development
+284,Beeceptor,,True,yes,Development
+285,Bitbucket,OAuth,True,unknown,Development
+286,Blague.xyz,apiKey,True,yes,Development
+287,Blitapp,apiKey,True,unknown,Development
+288,Blynk-Cloud,apiKey,False,unknown,Development
+289,Bored,,True,unknown,Development
+290,Brainshop.ai,apiKey,True,yes,Development
+291,Browshot,apiKey,True,yes,Development
+292,CDNJS,,True,unknown,Development
+293,Changelogs.md,,True,unknown,Development
+294,Ciprand,,True,no,Development
+295,Cloudflare Trace,,True,yes,Development
+296,Codex,,True,unknown,Development
+297,Contentful Images,apiKey,True,yes,Development
+298,CORS Proxy,,True,yes,Development
+299,CountAPI,,True,yes,Development
+300,Databricks,apiKey,True,yes,Development
+301,DigitalOcean Status,,True,unknown,Development
+302,Docker Hub,apiKey,True,yes,Development
+303,DomainDb Info,,True,unknown,Development
+304,ExtendsClass JSON Storage,,True,yes,Development
+305,GeekFlare,apiKey,True,unknown,Development
+306,Genderize.io,,True,yes,Development
+307,GETPing,apiKey,True,unknown,Development
+308,Ghost,apiKey,True,yes,Development
+309,GitHub,OAuth,True,yes,Development
+310,Gitlab,OAuth,True,unknown,Development
+311,Gitter,OAuth,True,unknown,Development
+312,Glitterly,apiKey,True,yes,Development
+313,Google Docs,OAuth,True,unknown,Development
+314,Google Firebase,apiKey,True,yes,Development
+315,Google Fonts,apiKey,True,unknown,Development
+316,Google Keep,OAuth,True,unknown,Development
+317,Google Sheets,OAuth,True,unknown,Development
+318,Google Slides,OAuth,True,unknown,Development
+319,Gorest,OAuth,True,unknown,Development
+320,Hasura,apiKey,True,yes,Development
+321,Heroku,OAuth,True,yes,Development
+322,host-t.com,,True,no,Development
+323,Host.io,apiKey,True,yes,Development
+324,HTTP2.Pro,,True,unknown,Development
+325,Httpbin,,True,yes,Development
+326,Httpbin Cloudflare,,True,yes,Development
+327,Hunter,apiKey,True,unknown,Development
+328,IBM Text to Speech,apiKey,True,yes,Development
+329,Icanhazepoch,,True,yes,Development
+330,Icanhazip,,True,yes,Development
+331,IFTTT,,True,unknown,Development
+332,Image-Charts,,True,yes,Development
+333,import.io,apiKey,True,unknown,Development
+334,ip-fast.com,,True,yes,Development
+335,IP2WHOIS Information Lookup,apiKey,True,unknown,Development
+336,ipfind.io,apiKey,True,yes,Development
+337,IPify,,True,unknown,Development
+338,IPinfo,,True,unknown,Development
+339,jsDelivr,,True,yes,Development
+340,JSON 2 JSONP,,True,unknown,Development
+341,JSONbin.io,apiKey,True,yes,Development
+342,Kroki,,True,yes,Development
+343,License-API,,True,no,Development
+344,Logs.to,apiKey,True,unknown,Development
+345,Lua Decompiler,,True,yes,Development
+346,MAC address vendor lookup,apiKey,True,yes,Development
+347,Micro DB,apiKey,True,unknown,Development
+348,MicroENV,,True,unknown,Development
+349,Mocky,,True,yes,Development
+350,MY IP,,True,unknown,Development
+351,Nationalize.io,,True,yes,Development
+352,Netlify,OAuth,True,unknown,Development
+353,NetworkCalc,,True,yes,Development
+354,npm Registry,,True,unknown,Development
+355,OneSignal,apiKey,True,unknown,Development
+356,Open Page Rank,apiKey,True,unknown,Development
+357,OpenAPIHub,X-Mashape-Key,True,unknown,Development
+358,OpenGraphr,apiKey,True,unknown,Development
+359,oyyi,,True,yes,Development
+360,PageCDN,apiKey,True,yes,Development
+361,Postman,apiKey,True,unknown,Development
+362,ProxyCrawl,apiKey,True,unknown,Development
+363,ProxyKingdom,apiKey,True,yes,Development
+364,Pusher Beams,apiKey,True,unknown,Development
+365,QR code,,True,yes,Development
+366,QR code,,True,unknown,Development
+367,Qrcode Monkey,,True,unknown,Development
+368,QuickChart,,True,yes,Development
+369,Random Stuff,apiKey,True,yes,Development
+370,Rejax,apiKey,True,no,Development
+371,ReqRes,,True,unknown,Development
+372,RSS feed to JSON,,True,yes,Development
+373,SavePage.io,apiKey,True,yes,Development
+374,ScrapeNinja,apiKey,True,unknown,Development
+375,ScraperApi,apiKey,True,unknown,Development
+376,scraperBox,apiKey,True,yes,Development
+377,scrapestack,apiKey,True,unknown,Development
+378,ScrapingAnt,apiKey,True,unknown,Development
+379,ScrapingDog,apiKey,True,unknown,Development
+380,ScreenshotAPI.net,apiKey,True,yes,Development
+381,Serialif Color,,True,no,Development
+382,serpstack,apiKey,True,yes,Development
+383,Sheetsu,apiKey,True,unknown,Development
+384,SHOUTCLOUD,,False,unknown,Development
+385,Sonar,,True,yes,Development
+386,SonarQube,OAuth,True,unknown,Development
+387,StackExchange,OAuth,True,unknown,Development
+388,Statically,,True,yes,Development
+389,Supportivekoala,apiKey,True,yes,Development
+390,Tyk,apiKey,True,yes,Development
+391,Wandbox,,True,unknown,Development
+392,WebScraping.AI,apiKey,True,yes,Development
+393,ZenRows,apiKey,True,unknown,Development
+394,Chinese Character Web,,False,no,Dictionaries
+395,Chinese Text Project,,True,unknown,Dictionaries
+396,Collins,apiKey,True,unknown,Dictionaries
+397,Free Dictionary,,True,unknown,Dictionaries
+398,Indonesia Dictionary,,True,unknown,Dictionaries
+399,Lingua Robot,apiKey,True,yes,Dictionaries
+400,Merriam-Webster,apiKey,True,unknown,Dictionaries
+401,OwlBot,apiKey,True,yes,Dictionaries
+402,Oxford,apiKey,True,no,Dictionaries
+403,Synonyms,apiKey,True,unknown,Dictionaries
+404,Wiktionary,,True,yes,Dictionaries
+405,Wordnik,apiKey,True,unknown,Dictionaries
+406,Words,apiKey,True,unknown,Dictionaries
+407,Airtable,apiKey,True,unknown,Documents & Productivity
+408,Api2Convert,apiKey,True,unknown,Documents & Productivity
+409,apilayer pdflayer,apiKey,True,unknown,Documents & Productivity
+410,Asana,apiKey,True,yes,Documents & Productivity
+411,ClickUp,OAuth,True,unknown,Documents & Productivity
+412,Clockify,apiKey,True,unknown,Documents & Productivity
+413,CloudConvert,apiKey,True,unknown,Documents & Productivity
+414,Cloudmersive Document and Data Conversion,apiKey,True,yes,Documents & Productivity
+415,Code::Stats,apiKey,True,no,Documents & Productivity
+416,CraftMyPDF,apiKey,True,no,Documents & Productivity
+417,Flowdash,apiKey,True,unknown,Documents & Productivity
+418,Html2PDF,apiKey,True,unknown,Documents & Productivity
+419,iLovePDF,apiKey,True,yes,Documents & Productivity
+420,JIRA,OAuth,True,unknown,Documents & Productivity
+421,Mattermost,OAuth,True,unknown,Documents & Productivity
+422,Mercury,apiKey,True,unknown,Documents & Productivity
+423,Monday,apiKey,True,unknown,Documents & Productivity
+424,Notion,OAuth,True,unknown,Documents & Productivity
+425,PandaDoc,apiKey,True,no,Documents & Productivity
+426,Pocket,OAuth,True,unknown,Documents & Productivity
+427,Podio,OAuth,True,unknown,Documents & Productivity
+428,PrexView,apiKey,True,unknown,Documents & Productivity
+429,Restpack,apiKey,True,unknown,Documents & Productivity
+430,Todoist,OAuth,True,unknown,Documents & Productivity
+431,Smart Image Enhancement API,apiKey,True,unknown,Documents & Productivity
+432,Vector Express v2.0,,True,no,Documents & Productivity
+433,WakaTime,,True,unknown,Documents & Productivity
+434,Zube,OAuth,True,unknown,Documents & Productivity
+435,Abstract Email Validation,apiKey,True,yes,Email
+436,apilayer mailboxlayer,apiKey,True,unknown,Email
+437,Cloudmersive Validate,apiKey,True,yes,Email
+438,Disify,,True,yes,Email
+439,DropMail,,True,unknown,Email
+440,EVA,,True,yes,Email
+441,Guerrilla Mail,,True,unknown,Email
+442,ImprovMX,apiKey,True,unknown,Email
+443,Kickbox,,True,yes,Email
+444,mail.gw,,True,yes,Email
+445,mail.tm,,True,yes,Email
+446,MailboxValidator,apiKey,True,unknown,Email
+447,MailCheck.ai,,True,unknown,Email
+448,Mailtrap,apiKey,True,unknown,Email
+449,Sendgrid,apiKey,True,unknown,Email
+450,Sendinblue,apiKey,True,unknown,Email
+451,Verifier,apiKey,True,yes,Email
+452,chucknorris.io,,True,unknown,Entertainment
+453,Corporate Buzz Words,,True,yes,Entertainment
+454,Excuser,,True,unknown,Entertainment
+455,Fun Fact,,True,yes,Entertainment
+456,Imgflip,,True,unknown,Entertainment
+457,Meme Maker,,True,unknown,Entertainment
+458,NaMoMemes,,True,unknown,Entertainment
+459,Random Useless Facts,,True,unknown,Entertainment
+460,Techy,,True,unknown,Entertainment
+461,Yo Momma Jokes,,True,unknown,Entertainment
+462,BreezoMeter Pollen,apiKey,True,unknown,Environment
+463,Carbon Interface,apiKey,True,yes,Environment
+464,Climatiq,apiKey,True,yes,Environment
+465,Cloverly,apiKey,True,unknown,Environment
+466,CO2 Offset,,True,unknown,Environment
+467,Danish data service Energi,,True,unknown,Environment
+468,GrünstromIndex,,False,yes,Environment
+469,IQAir,apiKey,True,unknown,Environment
+470,Luchtmeetnet,,True,unknown,Environment
+471,National Grid ESO,,True,unknown,Environment
+472,OpenAQ,apiKey,True,unknown,Environment
+473,PM2.5 Open Data Portal,,True,unknown,Environment
+474,PM25.in,apiKey,False,unknown,Environment
+475,PVWatts,apiKey,True,unknown,Environment
+476,Srp Energy,apiKey,True,no,Environment
+477,UK Carbon Intensity,,True,unknown,Environment
+478,Website Carbon,,True,unknown,Environment
+479,Eventbrite,OAuth,True,unknown,Events
+480,SeatGeek,apiKey,True,unknown,Events
+481,Ticketmaster,apiKey,True,unknown,Events
+482,Abstract VAT Validation,apiKey,True,yes,Finance
+483,Aletheia,apiKey,True,yes,Finance
+484,Alpaca,apiKey,True,yes,Finance
+485,Alpha Vantage,apiKey,True,unknown,Finance
+486,apilayer marketstack,apiKey,True,unknown,Finance
+487,Banco do Brasil,OAuth,True,yes,Finance
+488,Bank Data API,apiKey,True,unknown,Finance
+489,Billplz,apiKey,True,unknown,Finance
+490,Binlist,,True,unknown,Finance
+491,Boleto.Cloud,apiKey,True,unknown,Finance
+492,Citi,apiKey,True,unknown,Finance
+493,Econdb,,True,yes,Finance
+494,Fed Treasury,,True,unknown,Finance
+495,Finage,apiKey,True,unknown,Finance
+496,Financial Modeling Prep,apiKey,True,unknown,Finance
+497,Finnhub,apiKey,True,unknown,Finance
+498,FRED,apiKey,True,yes,Finance
+499,Front Accounting APIs,OAuth,True,yes,Finance
+500,Hotstoks,apiKey,True,yes,Finance
+501,IEX Cloud,apiKey,True,yes,Finance
+502,IG,apiKey,True,unknown,Finance
+503,Indian Mutual Fund,,True,unknown,Finance
+504,Intrinio,apiKey,True,unknown,Finance
+505,Klarna,apiKey,True,unknown,Finance
+506,MercadoPago,apiKey,True,unknown,Finance
+507,Mono,apiKey,True,unknown,Finance
+508,Moov,apiKey,True,unknown,Finance
+509,Nordigen,apiKey,True,unknown,Finance
+510,OpenFIGI,apiKey,True,yes,Finance
+511,Plaid,apiKey,True,unknown,Finance
+512,Polygon,apiKey,True,unknown,Finance
+513,Portfolio Optimizer,,True,yes,Finance
+514,Razorpay IFSC,,True,unknown,Finance
+515,Real Time Finance,apiKey,False,unknown,Finance
+516,SEC EDGAR Data,,True,yes,Finance
+517,SmartAPI,apiKey,True,unknown,Finance
+518,StockData,apiKey,True,yes,Finance
+519,Styvio,apiKey,True,unknown,Finance
+520,Tax Data API,apiKey,True,unkown,Finance
+521,Tradier,OAuth,True,yes,Finance
+522,Twelve Data,apiKey,True,unknown,Finance
+523,WallstreetBets,,True,unknown,Finance
+524,Yahoo Finance,apiKey,True,yes,Finance
+525,YNAB,OAuth,True,yes,Finance
+526,Zoho Books,OAuth,True,unknown,Finance
+527,BaconMockup,,True,yes,Food & Drink
+528,Chomp,apiKey,True,unknown,Food & Drink
+529,Coffee,,True,unknown,Food & Drink
+530,Edamam nutrition,apiKey,True,unknown,Food & Drink
+531,Edamam recipes,apiKey,True,unknown,Food & Drink
+532,Foodish,,True,yes,Food & Drink
+533,Fruityvice,,True,unknown,Food & Drink
+534,Kroger,apiKey,True,unknown,Food & Drink
+535,LCBO,apiKey,True,unknown,Food & Drink
+536,Open Brewery DB,,True,yes,Food & Drink
+537,Open Food Facts,,True,unknown,Food & Drink
+538,PunkAPI,,True,unknown,Food & Drink
+539,Rustybeer,,True,no,Food & Drink
+540,Spoonacular,apiKey,True,unknown,Food & Drink
+541,Systembolaget,apiKey,True,unknown,Food & Drink
+542,TacoFancy,,False,unknown,Food & Drink
+543,Tasty,apiKey,True,unknown,Food & Drink
+544,The Report of the Week,,True,unknown,Food & Drink
+545,TheCocktailDB,apiKey,True,yes,Food & Drink
+546,TheMealDB,apiKey,True,yes,Food & Drink
+547,Untappd,OAuth,True,unknown,Food & Drink
+548,What's on the menu?,apiKey,False,unknown,Food & Drink
+549,WhiskyHunter,,True,unknown,Food & Drink
+550,Zestful,apiKey,True,yes,Food & Drink
+551,Age of Empires II,,True,no,Games & Comics
+552,AmiiboAPI,,True,yes,Games & Comics
+553,Animal Crossing: New Horizons,,True,unknown,Games & Comics
+554,Autochess VNG,,True,yes,Games & Comics
+555,Barter.VG,,True,yes,Games & Comics
+556,Battle.net,OAuth,True,yes,Games & Comics
+557,Board Game Geek,,True,no,Games & Comics
+558,Brawl Stars,apiKey,True,unknown,Games & Comics
+559,Bugsnax,,True,yes,Games & Comics
+560,CheapShark,,True,yes,Games & Comics
+561,Chess.com,,True,unknown,Games & Comics
+562,Chuck Norris Database,,False,unknown,Games & Comics
+563,Clash of Clans,apiKey,True,unknown,Games & Comics
+564,Clash Royale,apiKey,True,unknown,Games & Comics
+565,Comic Vine,,True,unknown,Games & Comics
+566,Crafatar,,True,yes,Games & Comics
+567,Cross Universe,,True,yes,Games & Comics
+568,Deck of Cards,,False,unknown,Games & Comics
+569,Destiny The Game,apiKey,True,unknown,Games & Comics
+570,Digimon Information,,True,unknown,Games & Comics
+571,Digimon TCG,,True,unknown,Games & Comics
+572,Disney,,True,yes,Games & Comics
+573,Dota 2,apiKey,True,unknown,Games & Comics
+574,Dungeons and Dragons,,False,no,Games & Comics
+575,Dungeons and Dragons (Alternate),,True,yes,Games & Comics
+576,Eve Online,OAuth,True,unknown,Games & Comics
+577,FFXIV Collect,,True,yes,Games & Comics
+578,FIFA Ultimate Team,,True,unknown,Games & Comics
+579,Final Fantasy XIV,,True,yes,Games & Comics
+580,Fortnite,apiKey,True,unknown,Games & Comics
+581,Forza,,True,unknown,Games & Comics
+582,FreeToGame,,True,yes,Games & Comics
+583,Fun Facts,,True,yes,Games & Comics
+584,FunTranslations,,True,yes,Games & Comics
+585,GamerPower,,True,yes,Games & Comics
+586,GDBrowser,,True,unknown,Games & Comics
+587,Geek-Jokes,,True,yes,Games & Comics
+588,Genshin Impact,,True,yes,Games & Comics
+589,Giant Bomb,apiKey,True,unknown,Games & Comics
+590,GraphQL Pokemon,,True,yes,Games & Comics
+591,Guild Wars 2,apiKey,True,unknown,Games & Comics
+592,GW2Spidy,,True,unknown,Games & Comics
+593,Halo,apiKey,True,unknown,Games & Comics
+594,Hearthstone,X-Mashape-Key,True,unknown,Games & Comics
+595,Humble Bundle,apiKey,True,unknown,Games & Comics
+596,Humor,apiKey,True,unknown,Games & Comics
+597,Hypixel,apiKey,True,unknown,Games & Comics
+598,Hyrule Compendium,,True,unknown,Games & Comics
+599,Hytale,,True,unknown,Games & Comics
+600,IGDB.com,apiKey,True,unknown,Games & Comics
+601,JokeAPI,,True,yes,Games & Comics
+602,Jokes One,apiKey,True,yes,Games & Comics
+603,Jservice,,False,unknown,Games & Comics
+604,Lichess,OAuth,True,unknown,Games & Comics
+605,Magic The Gathering,,False,unknown,Games & Comics
+606,Mario Kart Tour,OAuth,True,unknown,Games & Comics
+607,Marvel,apiKey,True,unknown,Games & Comics
+608,Minecraft Server Status,,True,no,Games & Comics
+609,MMO Games,,True,no,Games & Comics
+610,mod.io,apiKey,True,unknown,Games & Comics
+611,Mojang,apiKey,True,unknown,Games & Comics
+612,Monster Hunter World,,True,yes,Games & Comics
+613,Open Trivia,,True,unknown,Games & Comics
+614,PandaScore,apiKey,True,unknown,Games & Comics
+615,Path of Exile,OAuth,True,unknown,Games & Comics
+616,PlayerDB,,True,unknown,Games & Comics
+617,Pokéapi,,True,unknown,Games & Comics
+618,PokéAPI (GraphQL),,True,yes,Games & Comics
+619,Pokémon TCG,,True,unknown,Games & Comics
+620,Psychonauts,,True,yes,Games & Comics
+621,PUBG,apiKey,True,yes,Games & Comics
+622,Puyo Nexus,,True,yes,Games & Comics
+623,quizapi.io,apiKey,True,yes,Games & Comics
+624,Raider,,True,unknown,Games & Comics
+625,RAWG.io,apiKey,True,unknown,Games & Comics
+626,Rick and Morty,,True,yes,Games & Comics
+627,Riot Games,apiKey,True,unknown,Games & Comics
+628,RPS 101,,True,yes,Games & Comics
+629,RuneScape,,True,no,Games & Comics
+630,Sakura CardCaptor,,True,unknown,Games & Comics
+631,Scryfall,,True,yes,Games & Comics
+632,SpaceTradersAPI,OAuth,True,yes,Games & Comics
+633,Steam,apiKey,True,no,Games & Comics
+634,Steam,,True,no,Games & Comics
+635,SuperHeroes,apiKey,True,unknown,Games & Comics
+636,TCGdex,,True,yes,Games & Comics
+637,Tebex,X-Mashape-Key,True,no,Games & Comics
+638,TETR.IO,,True,unknown,Games & Comics
+639,Tronald Dump,,True,unknown,Games & Comics
+640,Universalis,,True,yes,Games & Comics
+641,Valorant (non-official),,True,unknown,Games & Comics
+642,Warface (non-official),,True,no,Games & Comics
+643,Wargaming.net,apiKey,True,no,Games & Comics
+644,When is next MCU film,,True,unknown,Games & Comics
+645,xkcd,,True,no,Games & Comics
+646,Yu-Gi-Oh!,,True,unknown,Games & Comics
+647,Abstract IP Geolocation,apiKey,True,yes,Geocoding
+648,Actinia Grass GIS,apiKey,True,unknown,Geocoding
+649,administrative-divisons-db,,True,yes,Geocoding
+650,adresse.data.gouv.fr,,True,unknown,Geocoding
+651,Airtel IP,,True,unknown,Geocoding
+652,Apiip,apiKey,True,yes,Geocoding
+653,apilayer ipstack,apiKey,True,unknown,Geocoding
+654,Battuta,apiKey,False,unknown,Geocoding
+655,BigDataCloud,apiKey,True,unknown,Geocoding
+656,Bing Maps,apiKey,True,unknown,Geocoding
+657,bng2latlong,,True,yes,Geocoding
+658,Cartes.io,,True,unknown,Geocoding
+659,Cep.la,,False,unknown,Geocoding
+660,CitySDK,,True,unknown,Geocoding
+661,Country,,True,yes,Geocoding
+662,CountryStateCity,apiKey,True,yes,Geocoding
+663,Ducks Unlimited,,True,no,Geocoding
+664,FreeGeoIP,,True,yes,Geocoding
+665,GeoApi,,True,unknown,Geocoding
+666,Geoapify,apiKey,True,yes,Geocoding
+667,Geocod.io,apiKey,True,unknown,Geocoding
+668,Geocode.xyz,,True,unknown,Geocoding
+669,Geocodify.com,apiKey,True,yes,Geocoding
+670,Geodata.gov.gr,,True,unknown,Geocoding
+671,GeoDataSource,apiKey,True,unknown,Geocoding
+672,GeoDB Cities,apiKey,True,unknown,Geocoding
+673,GeographQL,,True,yes,Geocoding
+674,GeoJS,,True,yes,Geocoding
+675,Geokeo,,True,yes,Geocoding
+676,GeoNames,,False,unknown,Geocoding
+677,geoPlugin,,True,yes,Geocoding
+678,Google Earth Engine,apiKey,True,unknown,Geocoding
+679,Google Maps,apiKey,True,unknown,Geocoding
+680,Graph Countries,,True,unknown,Geocoding
+681,HelloSalut,,True,unknown,Geocoding
+682,HERE Maps,apiKey,True,unknown,Geocoding
+683,Hirak IP to Country,apiKey,True,unknown,Geocoding
+684,Hong Kong GeoData Store,,True,unknown,Geocoding
+685,IBGE,,True,unknown,Geocoding
+686,IP 2 Country,,True,unknown,Geocoding
+687,IP Address Details,,True,unknown,Geocoding
+688,IP Vigilante,,True,unknown,Geocoding
+689,ip-api,,False,unknown,Geocoding
+690,IP2Location,apiKey,True,unknown,Geocoding
+691,IP2Proxy,apiKey,True,unknown,Geocoding
+692,ipapi.co,,True,yes,Geocoding
+693,ipapi.com,apiKey,True,unknown,Geocoding
+694,IPGEO,,True,unknown,Geocoding
+695,ipgeolocation,apiKey,True,yes,Geocoding
+696,IPInfoDB,apiKey,True,unknown,Geocoding
+697,Kakao Maps,apiKey,True,unknown,Geocoding
+698,keycdn IP Location Finder,apiKey,True,unknown,Geocoding
+699,LocationIQ,apiKey,True,yes,Geocoding
+700,Longdo Map,apiKey,True,yes,Geocoding
+701,Mapbox,apiKey,True,unknown,Geocoding
+702,MapQuest,apiKey,True,no,Geocoding
+703,Mexico,,True,unknown,Geocoding
+704,Nominatim,,True,yes,Geocoding
+705,"One Map, Singapore",apiKey,True,unknown,Geocoding
+706,OnWater,,True,unknown,Geocoding
+707,Open Topo Data,,True,no,Geocoding
+708,OpenCage,apiKey,True,yes,Geocoding
+709,openrouteservice.org,apiKey,True,unknown,Geocoding
+710,OpenStreetMap,OAuth,False,unknown,Geocoding
+711,Pinball Map,,True,yes,Geocoding
+712,positionstack,apiKey,True,unknown,Geocoding
+713,Postali,,True,yes,Geocoding
+714,PostcodeData.nl,,False,unknown,Geocoding
+715,Postcodes.io,,True,yes,Geocoding
+716,Queimadas INPE,,True,unknown,Geocoding
+717,REST Countries,,True,yes,Geocoding
+718,RoadGoat Cities,apiKey,True,no,Geocoding
+719,Rwanda Locations,,True,unknown,Geocoding
+720,SLF,,True,yes,Geocoding
+721,SpotSense,apiKey,True,unknown,Geocoding
+722,Telize,apiKey,True,yes,Geocoding
+723,TomTom,apiKey,True,yes,Geocoding
+724,Uebermaps,apiKey,True,unknown,Geocoding
+725,US ZipCode,apiKey,True,yes,Geocoding
+726,Utah AGRC,apiKey,True,unknown,Geocoding
+727,ViaCep,,True,unknown,Geocoding
+728,What3Words,apiKey,True,unknown,Geocoding
+729,Yandex.Maps Geocoder,apiKey,True,unknown,Geocoding
+730,ZipCodeAPI,apiKey,True,unknown,Geocoding
+731,Zippopotam.us,,False,unknown,Geocoding
+732,Ziptastic,,True,unknown,Geocoding
+733,Bank Negara Malaysia Open Data,,True,unknown,Government
+734,BCLaws,,False,unknown,Government
+735,Brazil,,True,yes,Government
+736,Brazil Central Bank Open Data,,True,unknown,Government
+737,Brazil Receita WS,,True,unknown,Government
+738,Brazilian Chamber of Deputies Open Data,,True,no,Government
+739,Census.gov,,True,unknown,Government
+740,"City, Berlin",,True,unknown,Government
+741,"City, Gdańsk",,True,unknown,Government
+742,"City, Gdynia",,False,unknown,Government
+743,"City, Helsinki",,True,unknown,Government
+744,"City, Lviv",,True,unknown,Government
+745,"City, Nantes Open Data",apiKey,True,unknown,Government
+746,"City, New York Open Data",,True,unknown,Government
+747,"City, Prague Open Data",,False,unknown,Government
+748,"City, Toronto Open Data",,True,yes,Government
+749,Code.gov,apiKey,True,unknown,Government
+750,Colorado Information Marketplace,,True,unknown,Government
+751,Data USA,,True,unknown,Government
+752,Data.gov,apiKey,True,unknown,Government
+753,Data.parliament.uk,,False,unknown,Government
+754,Deutscher Bundestag DIP,apiKey,True,unknown,Government
+755,District of Columbia Open Data,,True,unknown,Government
+756,EPA,,True,unknown,Government
+757,FBI Wanted,,True,unknown,Government
+758,FEC,apiKey,True,unknown,Government
+759,Federal Register,,True,unknown,Government
+760,Food Standards Agency,,False,unknown,Government
+761,"Gazette Data, UK",OAuth,True,unknown,Government
+762,Gun Policy,apiKey,True,unknown,Government
+763,INEI,,False,unknown,Government
+764,Interpol Red Notices,,True,unknown,Government
+765,Istanbul (İBB) Open Data,,True,unknown,Government
+766,"National Park Service, US",apiKey,True,yes,Government
+767,"Open Government, ACT",,True,unknown,Government
+768,"Open Government, Argentina",,True,unknown,Government
+769,"Open Government, Australia",,True,unknown,Government
+770,"Open Government, Austria",,True,unknown,Government
+771,"Open Government, Belgium",,True,unknown,Government
+772,"Open Government, Canada",,False,unknown,Government
+773,"Open Government, Colombia",,False,unknown,Government
+774,"Open Government, Cyprus",,True,unknown,Government
+775,"Open Government, Czech Republic",,True,unknown,Government
+776,"Open Government, Denmark",,True,unknown,Government
+777,"Open Government, Estonia",apiKey,True,unknown,Government
+778,"Open Government, Finland",,True,unknown,Government
+779,"Open Government, France",apiKey,True,unknown,Government
+780,"Open Government, Germany",,True,unknown,Government
+781,"Open Government, Greece",OAuth,True,unknown,Government
+782,"Open Government, India",apiKey,True,unknown,Government
+783,"Open Government, Ireland",,True,unknown,Government
+784,"Open Government, Italy",,True,unknown,Government
+785,"Open Government, Korea",apiKey,True,unknown,Government
+786,"Open Government, Lithuania",,True,unknown,Government
+787,"Open Government, Luxembourg",apiKey,True,unknown,Government
+788,"Open Government, Mexico",,True,unknown,Government
+789,"Open Government, Mexico",,True,unknown,Government
+790,"Open Government, Netherlands",,True,unknown,Government
+791,"Open Government, New South Wales",apiKey,True,unknown,Government
+792,"Open Government, New Zealand",,True,unknown,Government
+793,"Open Government, Norway",,True,yes,Government
+794,"Open Government, Peru",,True,unknown,Government
+795,"Open Government, Poland",,True,yes,Government
+796,"Open Government, Portugal",,True,yes,Government
+797,"Open Government, Queensland Government",,True,unknown,Government
+798,"Open Government, Romania",,False,unknown,Government
+799,"Open Government, Saudi Arabia",,True,unknown,Government
+800,"Open Government, Singapore",,True,unknown,Government
+801,"Open Government, Slovakia",,True,unknown,Government
+802,"Open Government, Slovenia",,True,no,Government
+803,"Open Government, South Australian Government",,True,unknown,Government
+804,"Open Government, Spain",,True,unknown,Government
+805,"Open Government, Sweden",,True,unknown,Government
+806,"Open Government, Switzerland",,True,unknown,Government
+807,"Open Government, Taiwan",,True,unknown,Government
+808,"Open Government, Thailand",apiKey,True,unknown,Government
+809,"Open Government, UK",,True,unknown,Government
+810,"Open Government, USA",,True,unknown,Government
+811,"Open Government, Victoria State Government",,True,unknown,Government
+812,"Open Government, West Australia",,True,unknown,Government
+813,PRC Exam Schedule,,True,yes,Government
+814,Represent by Open North,,True,unknown,Government
+815,UK Companies House,OAuth,True,unknown,Government
+816,US Presidential Election Data by TogaTech,,True,no,Government
+817,USA.gov,apiKey,True,unknown,Government
+818,USAspending.gov,,True,unknown,Government
+819,CMS.gov,apiKey,True,unknown,Health
+820,Coronavirus,,True,unknown,Health
+821,Coronavirus in the UK,,True,unknown,Health
+822,Covid Tracking Project,,True,no,Health
+823,Covid-19,,True,yes,Health
+824,Covid-19,,True,yes,Health
+825,Covid-19 Datenhub,,True,unknown,Health
+826,Covid-19 Government Response,,True,yes,Health
+827,Covid-19 India,,True,unknown,Health
+828,Covid-19 JHU CSSE,,True,yes,Health
+829,Covid-19 Live Data,,True,yes,Health
+830,Covid-19 Philippines,,True,yes,Health
+831,COVID-19 Tracker Canada,,True,unknown,Health
+832,COVID-19 Tracker Sri Lanka,,True,unknown,Health
+833,COVID-ID,,True,yes,Health
+834,Dataflow Kit COVID-19,,True,unknown,Health
+835,FoodData Central,apiKey,True,unknown,Health
+836,Healthcare.gov,,True,unknown,Health
+837,Humanitarian Data Exchange,,True,unknown,Health
+838,Infermedica,apiKey,True,yes,Health
+839,LAPIS,,True,yes,Health
+840,Lexigram,apiKey,True,unknown,Health
+841,Makeup,,False,unknown,Health
+842,MyVaccination,,True,unknown,Health
+843,NPPES,,True,unknown,Health
+844,Nutritionix,apiKey,True,unknown,Health
+845,Open Data NHS Scotland,,True,unknown,Health
+846,Open Disease,,True,yes,Health
+847,openFDA,apiKey,True,unknown,Health
+848,Orion Health,OAuth,True,unknown,Health
+849,Quarantine,,True,yes,Health
+850,Adzuna,apiKey,True,unknown,Jobs
+851,Arbeitnow,,True,yes,Jobs
+852,Arbeitsamt,OAuth,True,unknown,Jobs
+853,Careerjet,apiKey,False,unknown,Jobs
+854,DevITjobs UK,,True,yes,Jobs
+855,Findwork,apiKey,True,unknown,Jobs
+856,GraphQL Jobs,,True,yes,Jobs
+857,Jobs2Careers,apiKey,True,unknown,Jobs
+858,Jooble,apiKey,True,unknown,Jobs
+859,Juju,apiKey,False,unknown,Jobs
+860,Open Skills,,False,unknown,Jobs
+861,Reed,apiKey,True,unknown,Jobs
+862,The Muse,apiKey,True,unknown,Jobs
+863,Upwork,OAuth,True,unknown,Jobs
+864,USAJOBS,apiKey,True,unknown,Jobs
+865,WhatJobs,apiKey,True,unknown,Jobs
+866,ZipRecruiter,apiKey,True,unknown,Jobs
+867,AI For Thai,apiKey,True,yes,Machine Learning
+868,Clarifai,OAuth,True,unknown,Machine Learning
+869,Cloudmersive,apiKey,True,yes,Machine Learning
+870,Deepcode,,True,unknown,Machine Learning
+871,Dialogflow,apiKey,True,unknown,Machine Learning
+872,EXUDE-API,,True,yes,Machine Learning
+873,Hirak FaceAPI,apiKey,True,unknown,Machine Learning
+874,Imagga,apiKey,True,unknown,Machine Learning
+875,Inferdo,apiKey,True,unknown,Machine Learning
+876,IPS Online,apiKey,True,unknown,Machine Learning
+877,Irisnet,apiKey,True,yes,Machine Learning
+878,Keen IO,apiKey,True,unknown,Machine Learning
+879,Machinetutors,apiKey,True,yes,Machine Learning
+880,MessengerX.io,apiKey,True,yes,Machine Learning
+881,NLP Cloud,apiKey,True,unknown,Machine Learning
+882,OpenVisionAPI,,True,yes,Machine Learning
+883,Perspective,apiKey,True,unknown,Machine Learning
+884,Roboflow Universe,apiKey,True,yes,Machine Learning
+885,SkyBiometry,apiKey,True,unknown,Machine Learning
+886,Time Door,apiKey,True,yes,Machine Learning
+887,Unplugg,apiKey,True,unknown,Machine Learning
+888,WolframAlpha,apiKey,True,unknown,Machine Learning
+889,7digital,OAuth,True,unknown,Music
+890,AI Mastering,apiKey,True,yes,Music
+891,Audiomack,OAuth,True,unknown,Music
+892,Bandcamp,OAuth,True,unknown,Music
+893,Bandsintown,,True,unknown,Music
+894,Deezer,OAuth,True,unknown,Music
+895,Discogs,OAuth,True,unknown,Music
+896,Freesound,apiKey,True,unknown,Music
+897,Gaana,,True,unknown,Music
+898,Genius,OAuth,True,unknown,Music
+899,Genrenator,,True,unknown,Music
+900,iTunes Search,,True,unknown,Music
+901,Jamendo,OAuth,True,unknown,Music
+902,JioSaavn,,True,unknown,Music
+903,KKBOX,OAuth,True,unknown,Music
+904,KSoft.Si Lyrics,apiKey,True,unknown,Music
+905,LastFm,apiKey,True,unknown,Music
+906,Lyrics.ovh,,True,unknown,Music
+907,Mixcloud,OAuth,True,yes,Music
+908,MusicBrainz,,True,unknown,Music
+909,Musixmatch,apiKey,True,unknown,Music
+910,Napster,apiKey,True,yes,Music
+911,Openwhyd,,True,no,Music
+912,Phishin,apiKey,True,no,Music
+913,Radio Browser,,True,yes,Music
+914,Songkick,apiKey,True,unknown,Music
+915,Songlink / Odesli,apiKey,True,yes,Music
+916,Songsterr,,True,unknown,Music
+917,SoundCloud,OAuth,True,unknown,Music
+918,Spotify,OAuth,True,unknown,Music
+919,TasteDive,apiKey,True,unknown,Music
+920,TheAudioDB,apiKey,True,unknown,Music
+921,Vagalume,apiKey,True,unknown,Music
+922,apilayer mediastack,apiKey,True,unknown,News
+923,Associated Press,apiKey,True,unknown,News
+924,Chronicling America,,False,unknown,News
+925,Currents,apiKey,True,yes,News
+926,Feedbin,OAuth,True,unknown,News
+927,GNews,apiKey,True,yes,News
+928,Graphs for Coronavirus,,True,yes,News
+929,Inshorts News,,True,unknown,News
+930,MarketAux,apiKey,True,yes,News
+931,New York Times,apiKey,True,unknown,News
+932,News,apiKey,True,unknown,News
+933,NewsData,apiKey,True,unknown,News
+934,NewsX,apiKey,True,unknown,News
+935,NPR One,OAuth,True,unknown,News
+936,Spaceflight News,,True,yes,News
+937,The Guardian,apiKey,True,unknown,News
+938,The Old Reader,apiKey,True,unknown,News
+939,TheNews,apiKey,True,yes,News
+940,Trove,apiKey,True,unknown,News
+941,18F,,False,unknown,Open Data
+942,API Setu,,True,yes,Open Data
+943,Archive.org,,True,no,Open Data
+944,Black History Facts,apiKey,True,yes,Open Data
+945,BotsArchive,,True,unknown,Open Data
+946,Callook.info,,True,unknown,Open Data
+947,CARTO,apiKey,True,unknown,Open Data
+948,CollegeScoreCard.ed.gov,,True,unknown,Open Data
+949,Enigma Public,apiKey,True,yes,Open Data
+950,French Address Search,,True,unknown,Open Data
+951,GENESIS,OAuth,True,unknown,Open Data
+952,Joshua Project,apiKey,True,unknown,Open Data
+953,Kaggle,apiKey,True,unknown,Open Data
+954,LinkPreview,apiKey,True,yes,Open Data
+955,Lowy Asia Power Index,,True,unknown,Open Data
+956,Microlink.io,,True,yes,Open Data
+957,Nasdaq Data Link,apiKey,True,unknown,Open Data
+958,Nobel Prize,,True,yes,Open Data
+959,Open Data Minneapolis,,True,no,Open Data
+960,openAFRICA,,True,unknown,Open Data
+961,OpenCorporates,apiKey,True,unknown,Open Data
+962,OpenSanctions,,True,yes,Open Data
+963,PeakMetrics,apiKey,True,unknown,Open Data
+964,Recreation Information Database,apiKey,True,unknown,Open Data
+965,Scoop.it,apiKey,False,unknown,Open Data
+966,Socrata,OAuth,True,yes,Open Data
+967,Teleport,,True,unknown,Open Data
+968,Umeå Open Data,,True,yes,Open Data
+969,Universities List,,True,unknown,Open Data
+970,University of Oslo,,True,unknown,Open Data
+971,UPC database,apiKey,True,unknown,Open Data
+972,Urban Observatory,,False,no,Open Data
+973,Wikidata,OAuth,True,unknown,Open Data
+974,Wikipedia,,True,unknown,Open Data
+975,Yelp,OAuth,True,unknown,Open Data
+976,Countly,,False,unknown,Open Source Projects
+977,Creative Commons Catalog,OAuth,True,yes,Open Source Projects
+978,Datamuse,,True,unknown,Open Source Projects
+979,Drupal.org,,True,unknown,Open Source Projects
+980,Evil Insult Generator,,True,yes,Open Source Projects
+981,GitHub Contribution Chart Generator,,True,yes,Open Source Projects
+982,GitHub ReadMe Stats,,True,yes,Open Source Projects
+983,Metabase,,True,yes,Open Source Projects
+984,Shields,,True,unknown,Open Source Projects
+985,EPO,OAuth,True,unknown,Patent
+986,PatentsView ,,True,unknown,Patent
+987,TIPO,apiKey,True,unknown,Patent
+988,USPTO,,True,unknown,Patent
+989,Advice Slip,,True,unknown,Personality
+990,Biriyani As A Service,,True,no,Personality
+991,Dev.to,apiKey,True,unknown,Personality
+992,Dictum,,True,unknown,Personality
+993,FavQs.com,apiKey,True,unknown,Personality
+994,FOAAS,,False,unknown,Personality
+995,Forismatic,,False,unknown,Personality
+996,icanhazdadjoke,,True,unknown,Personality
+997,Inspiration,,True,yes,Personality
+998,kanye.rest,,True,yes,Personality
+999,kimiquotes,,True,yes,Personality
+1000,Medium,OAuth,True,unknown,Personality
+1001,Programming Quotes,,True,unknown,Personality
+1002,Quotable Quotes,,True,unknown,Personality
+1003,Quote Garden,,True,unknown,Personality
+1004,quoteclear,,True,yes,Personality
+1005,Quotes on Design,,True,unknown,Personality
+1006,Stoicism Quote,,True,unknown,Personality
+1007,They Said So Quotes,,True,unknown,Personality
+1008,Traitify,,True,unknown,Personality
+1009,Udemy(instructor),apiKey,True,unknown,Personality
+1010,Vadivelu HTTP Codes,,True,no,Personality
+1011,Zen Quotes,,True,yes,Personality
+1012,Abstract Phone Validation,apiKey,True,yes,Phone
+1013,apilayer numverify,apiKey,True,unknown,Phone
+1014,Cloudmersive Validate,apiKey,True,yes,Phone
+1015,Phone Specification,,True,yes,Phone
+1016,Veriphone,apiKey,True,yes,Phone
+1017,apilayer screenshotlayer,,True,unknown,Photography
+1018,APITemplate.io,apiKey,True,yes,Photography
+1019,Bruzu,apiKey,True,yes,Photography
+1020,CheetahO,apiKey,True,unknown,Photography
+1021,Dagpi,apiKey,True,unknown,Photography
+1022,Duply,apiKey,True,yes,Photography
+1023,DynaPictures,apiKey,True,yes,Photography
+1024,Flickr,OAuth,True,unknown,Photography
+1025,Getty Images,OAuth,True,unknown,Photography
+1026,Gfycat,OAuth,True,unknown,Photography
+1027,Giphy,apiKey,True,unknown,Photography
+1028,Google Photos,OAuth,True,unknown,Photography
+1029,Imgur,OAuth,True,unknown,Photography
+1030,Imsea,,True,unknown,Photography
+1031,Lorem Picsum,,True,unknown,Photography
+1032,ObjectCut,apiKey,True,yes,Photography
+1033,Pexels,apiKey,True,yes,Photography
+1034,PhotoRoom,apiKey,True,unknown,Photography
+1035,Pixabay,apiKey,True,unknown,Photography
+1036,PlaceKeanu,,True,unknown,Photography
+1037,Readme typing SVG,,True,unknown,Photography
+1038,Remove.bg,apiKey,True,unknown,Photography
+1039,ReSmush.it,,False,unknown,Photography
+1040,shutterstock,OAuth,True,unknown,Photography
+1041,Sirv,apiKey,True,unknown,Photography
+1042,Unsplash,OAuth,True,unknown,Photography
+1043,Wallhaven,apiKey,True,unknown,Photography
+1044,Webdam,OAuth,True,unknown,Photography
+1045,Codeforces,apiKey,True,unknown,Programming
+1046,Hackerearth,apiKey,True,unknown,Programming
+1047,Judge0 CE,apiKey,True,unknown,Programming
+1048,KONTESTS,,True,unknown,Programming
+1049,Mintlify,apiKey,True,yes,Programming
+1050,arcsecond.io,,True,unknown,Science & Math
+1051,arXiv,,True,unknown,Science & Math
+1052,CORE,apiKey,True,unknown,Science & Math
+1053,GBIF,,True,yes,Science & Math
+1054,iDigBio,,True,unknown,Science & Math
+1055,inspirehep.net,,True,unknown,Science & Math
+1056,isEven (humor),,True,unknown,Science & Math
+1057,ISRO,,True,no,Science & Math
+1058,ITIS,,True,unknown,Science & Math
+1059,Launch Library 2,,True,yes,Science & Math
+1060,Materials Platform for Data Science,apiKey,True,no,Science & Math
+1061,Minor Planet Center,,False,unknown,Science & Math
+1062,NASA,,True,no,Science & Math
+1063,NASA ADS,OAuth,True,yes,Science & Math
+1064,Newton,,True,no,Science & Math
+1065,Noctua,,True,unknown,Science & Math
+1066,Numbers,apiKey,True,no,Science & Math
+1067,Numbers,,False,no,Science & Math
+1068,Ocean Facts,,True,unknown,Science & Math
+1069,Open Notify,,False,no,Science & Math
+1070,Open Science Framework,,True,unknown,Science & Math
+1071,Purple Air,,True,unknown,Science & Math
+1072,Remote Calc,,True,yes,Science & Math
+1073,SHARE,,True,no,Science & Math
+1074,SpaceX,,True,no,Science & Math
+1075,SpaceX,,True,unknown,Science & Math
+1076,Sunrise and Sunset,,True,no,Science & Math
+1077,Times Adder,,True,no,Science & Math
+1078,TLE,,True,no,Science & Math
+1079,USGS Earthquake Hazards Program,,True,no,Science & Math
+1080,USGS Water Services,,True,no,Science & Math
+1081,World Bank,,True,no,Science & Math
+1082,xMath,,True,yes,Science & Math
+1083,Application Environment Verification,apiKey,True,yes,Security
+1084,BinaryEdge,apiKey,True,yes,Security
+1085,BitWarden,OAuth,True,unknown,Security
+1086,Botd,apiKey,True,yes,Security
+1087,Bugcrowd,apiKey,True,unknown,Security
+1088,Censys,apiKey,True,no,Security
+1089,Classify,,True,yes,Security
+1090,Complete Criminal Checks,apiKey,True,yes,Security
+1091,CRXcavator,apiKey,True,unknown,Security
+1092,Dehash.lt,,True,unknown,Security
+1093,EmailRep,,True,unknown,Security
+1094,Escape,,True,no,Security
+1095,FilterLists,,True,unknown,Security
+1096,FingerprintJS Pro,apiKey,True,yes,Security
+1097,FraudLabs Pro,apiKey,True,unknown,Security
+1098,FullHunt,apiKey,True,unknown,Security
+1099,GitGuardian,apiKey,True,no,Security
+1100,GreyNoise,apiKey,True,unknown,Security
+1101,HackerOne,apiKey,True,unknown,Security
+1102,Hashable,,True,yes,Security
+1103,HaveIBeenPwned,apiKey,True,unknown,Security
+1104,Intelligence X,apiKey,True,unknown,Security
+1105,LoginRadius,apiKey,True,yes,Security
+1106,Microsoft Security Response Center (MSRC),,True,unknown,Security
+1107,Mozilla http scanner,,True,unknown,Security
+1108,Mozilla tls scanner,,True,unknown,Security
+1109,National Vulnerability Database,,True,unknown,Security
+1110,Passwordinator,,True,yes,Security
+1111,PhishStats,,True,unknown,Security
+1112,Privacy.com,apiKey,True,unknown,Security
+1113,Pulsedive,apiKey,True,unknown,Security
+1114,SecurityTrails,apiKey,True,unknown,Security
+1115,Shodan,apiKey,True,unknown,Security
+1116,Spyse,apiKey,True,unknown,Security
+1117,Threat Jammer,apiKey,True,unknown,Security
+1118,UK Police,,True,unknown,Security
+1119,Virushee,,True,yes,Security
+1120,VulDB,apiKey,True,unknown,Security
+1121,Best Buy,apiKey,True,unknown,Shopping
+1122,Digi-Key,OAuth,True,unknown,Shopping
+1123,Dummy Products,apiKey,True,yes,Shopping
+1124,eBay,OAuth,True,unknown,Shopping
+1125,Etsy,OAuth,True,unknown,Shopping
+1126,Flipkart Marketplace,OAuth,True,yes,Shopping
+1127,Lazada,apiKey,True,unknown,Shopping
+1128,Mercadolibre,apiKey,True,unknown,Shopping
+1129,Octopart,apiKey,True,unknown,Shopping
+1130,OLX Poland,apiKey,True,unknown,Shopping
+1131,Rappi,OAuth,True,unknown,Shopping
+1132,Shopee,apiKey,True,unknown,Shopping
+1133,Tokopedia,OAuth,True,unknown,Shopping
+1134,WooCommerce,apiKey,True,yes,Shopping
+1135,4chan,,True,yes,Social
+1136,Ayrshare,apiKey,True,yes,Social
+1137,aztro,,True,unknown,Social
+1138,Blogger,OAuth,True,unknown,Social
+1139,Cisco Spark,OAuth,True,unknown,Social
+1140,Dangerous Discord Database,apiKey,True,unknown,Social
+1141,Discord,OAuth,True,unknown,Social
+1142,Disqus,OAuth,True,unknown,Social
+1143,Doge-Meme,,True,yes,Social
+1144,Facebook,OAuth,True,unknown,Social
+1145,Foursquare,OAuth,True,unknown,Social
+1146,Fuck Off as a Service,,True,unknown,Social
+1147,Full Contact,OAuth,True,unknown,Social
+1148,HackerNews,,True,unknown,Social
+1149,Hashnode,,True,unknown,Social
+1150,Instagram,OAuth,True,unknown,Social
+1151,Kakao,OAuth,True,unknown,Social
+1152,Lanyard,,True,yes,Social
+1153,Line,OAuth,True,unknown,Social
+1154,LinkedIn,OAuth,True,unknown,Social
+1155,Meetup.com,apiKey,True,unknown,Social
+1156,Microsoft Graph,OAuth,True,unknown,Social
+1157,NAVER,OAuth,True,unknown,Social
+1158,Open Collective,,True,unknown,Social
+1159,Pinterest,OAuth,True,unknown,Social
+1160,Product Hunt,OAuth,True,unknown,Social
+1161,Reddit,OAuth,True,unknown,Social
+1162,Revolt,apiKey,True,unknown,Social
+1163,Saidit,OAuth,True,unknown,Social
+1164,Slack,OAuth,True,unknown,Social
+1165,TamTam,apiKey,True,unknown,Social
+1166,Telegram Bot,apiKey,True,unknown,Social
+1167,Telegram MTProto,OAuth,True,unknown,Social
+1168,Telegraph,apiKey,True,unknown,Social
+1169,TikTok,OAuth,True,unknown,Social
+1170,Trash Nothing,OAuth,True,yes,Social
+1171,Tumblr,OAuth,True,unknown,Social
+1172,Twitch,OAuth,True,unknown,Social
+1173,Twitter,OAuth,True,no,Social
+1174,vk,OAuth,True,unknown,Social
+1175,API-FOOTBALL,apiKey,True,yes,Sports & Fitness
+1176,ApiMedic,apiKey,True,unknown,Sports & Fitness
+1177,balldontlie,,True,yes,Sports & Fitness
+1178,Canadian Football League (CFL),apiKey,True,no,Sports & Fitness
+1179,City Bikes,,True,unknown,Sports & Fitness
+1180,Cloudbet,apiKey,True,yes,Sports & Fitness
+1181,CollegeFootballData.com,apiKey,True,unknown,Sports & Fitness
+1182,Ergast F1,,True,unknown,Sports & Fitness
+1183,Fitbit,OAuth,True,unknown,Sports & Fitness
+1184,Football,X-Mashape-Key,True,unknown,Sports & Fitness
+1185,Football (Soccer) Videos,,True,yes,Sports & Fitness
+1186,Football Standings,,True,yes,Sports & Fitness
+1187,Football-Data,X-Mashape-Key,True,unknown,Sports & Fitness
+1188,JCDecaux Bike,apiKey,True,unknown,Sports & Fitness
+1189,MLB Records and Stats,,False,unknown,Sports & Fitness
+1190,NBA Data,apiKey,True,unknown,Sports & Fitness
+1191,NBA Stats,,True,unknown,Sports & Fitness
+1192,NHL Records and Stats,,True,unknown,Sports & Fitness
+1193,Oddsmagnet,,True,yes,Sports & Fitness
+1194,OpenLigaDB,,True,yes,Sports & Fitness
+1195,Premier League Standings ,apiKey,True,unknown,Sports & Fitness
+1196,Sport Data,apiKey,True,unknown,Sports & Fitness
+1197,Sport List & Data,,True,yes,Sports & Fitness
+1198,Sport Places,,True,no,Sports & Fitness
+1199,Sport Vision,apiKey,True,yes,Sports & Fitness
+1200,Sportmonks Cricket,apiKey,True,unknown,Sports & Fitness
+1201,Sportmonks Football,apiKey,True,unknown,Sports & Fitness
+1202,Squiggle,,True,yes,Sports & Fitness
+1203,Strava,OAuth,True,unknown,Sports & Fitness
+1204,SuredBits,,False,no,Sports & Fitness
+1205,TheSportsDB,apiKey,True,yes,Sports & Fitness
+1206,Tredict,OAuth,True,unknown,Sports & Fitness
+1207,Wger,apiKey,True,unknown,Sports & Fitness
+1208,Bacon Ipsum,,True,unknown,Test Data
+1209,Dicebear Avatars,,True,no,Test Data
+1210,English Random Words,,True,no,Test Data
+1211,FakeJSON,apiKey,True,yes,Test Data
+1212,FakerAPI,,True,yes,Test Data
+1213,FakeStoreAPI,,True,unknown,Test Data
+1214,GeneradorDNI,apiKey,True,unknown,Test Data
+1215,ItsThisForThat,,True,no,Test Data
+1216,JSONPlaceholder,,False,unknown,Test Data
+1217,Loripsum,,False,unknown,Test Data
+1218,Mailsac,apiKey,True,unknown,Test Data
+1219,Metaphorsum,,False,unknown,Test Data
+1220,Mockaroo,apiKey,True,unknown,Test Data
+1221,QuickMocker,,True,yes,Test Data
+1222,Random Data,,True,unknown,Test Data
+1223,Randommer,apiKey,True,yes,Test Data
+1224,RandomUser,,True,unknown,Test Data
+1225,RoboHash,,True,unknown,Test Data
+1226,Spanish random names,,True,unknown,Test Data
+1227,Spanish random words,,True,unknown,Test Data
+1228,This Person Does not Exist,,True,unknown,Test Data
+1229,Toolcarton,,True,unknown,Test Data
+1230,UUID Generator,,True,no,Test Data
+1231,What The Commit,,False,yes,Test Data
+1232,Yes No,,True,unknown,Test Data
+1233,Code Detection API,OAuth,True,unknown,Text Analysis
+1234,apilayer languagelayer,OAuth,True,unknown,Text Analysis
+1235,Aylien Text Analysis,apiKey,True,unknown,Text Analysis
+1236,Cloudmersive Natural Language Processing,apiKey,True,yes,Text Analysis
+1237,Detect Language,apiKey,True,unknown,Text Analysis
+1238,ELI,apiKey,True,unknown,Text Analysis
+1239,Google Cloud Natural,apiKey,True,unknown,Text Analysis
+1240,Hirak OCR,apiKey,True,unknown,Text Analysis
+1241,Hirak Translation,apiKey,True,unknown,Text Analysis
+1242,Lecto Translation,apiKey,True,yes,Text Analysis
+1243,LibreTranslate,,True,unknown,Text Analysis
+1244,Semantria,OAuth,True,unknown,Text Analysis
+1245,Sentiment Analysis,apiKey,True,yes,Text Analysis
+1246,Tisane,OAuth,True,yes,Text Analysis
+1247,Watson Natural Language Understanding,OAuth,True,unknown,Text Analysis
+1248,Aftership,apiKey,True,yes,Tracking
+1249,Correios,apiKey,True,unknown,Tracking
+1250,Pixela,X-Mashape-Key,True,yes,Tracking
+1251,PostalPinCode,,True,unknown,Tracking
+1252,Postmon,,False,unknown,Tracking
+1253,PostNord,apiKey,False,unknown,Tracking
+1254,UPS,apiKey,True,unknown,Tracking
+1255,WeCanTrack,apiKey,True,yes,Tracking
+1256,WhatPulse,,True,unknown,Tracking
+1257,ADS-B Exchange,,True,unknown,Transportation
+1258,airportsapi,,True,unknown,Transportation
+1259,AIS Hub,apiKey,False,unknown,Transportation
+1260,Amadeus for Developers,OAuth,True,unknown,Transportation
+1261,apilayer aviationstack,OAuth,True,unknown,Transportation
+1262,AviationAPI,,True,no,Transportation
+1263,AZ511,apiKey,True,unknown,Transportation
+1264,Bay Area Rapid Transit,apiKey,False,unknown,Transportation
+1265,BC Ferries,,True,yes,Transportation
+1266,BIC-Boxtech,OAuth,True,unknown,Transportation
+1267,BlaBlaCar,apiKey,True,unknown,Transportation
+1268,Boston MBTA Transit,apiKey,True,unknown,Transportation
+1269,Community Transit,,True,unknown,Transportation
+1270,Compare Flight Prices,apiKey,True,unknown,Transportation
+1271,CTS,apiKey,True,yes,Transportation
+1272,Grab,OAuth,True,unknown,Transportation
+1273,GraphHopper,apiKey,True,unknown,Transportation
+1274,Icelandic APIs,,True,unknown,Transportation
+1275,Impala Hotel Bookings,apiKey,True,no,Transportation
+1276,Izi,apiKey,True,unknown,Transportation
+1277,"Land Transport Authority DataMall, Singapore",apiKey,False,unknown,Transportation
+1278,Metro Lisboa,,False,no,Transportation
+1279,Navitia,apiKey,True,unknown,Transportation
+1280,Open Charge Map,apiKey,True,yes,Transportation
+1281,OpenSky Network,,True,unknown,Transportation
+1282,Railway Transport for France,apiKey,True,unknown,Transportation
+1283,REFUGE Restrooms,,True,unknown,Transportation
+1284,Sabre for Developers,apiKey,True,unknown,Transportation
+1285,Schiphol Airport,apiKey,True,unknown,Transportation
+1286,Tankerkoenig,apiKey,True,yes,Transportation
+1287,TransitLand,,True,unknown,Transportation
+1288,"Transport for Atlanta, US",,False,unknown,Transportation
+1289,"Transport for Auckland, New Zealand",,True,unknown,Transportation
+1290,Transport for Belgium,,True,yes,Transportation
+1291,"Transport for Berlin, Germany",,True,unknown,Transportation
+1292,"Transport for Bordeaux, France",apiKey,True,unknown,Transportation
+1293,"Transport for Budapest, Hungary",,True,unknown,Transportation
+1294,"Transport for Chicago, US",apiKey,False,unknown,Transportation
+1295,Transport for Czech Republic,,True,unknown,Transportation
+1296,"Transport for Denver, US",,False,unknown,Transportation
+1297,Transport for Finland,,True,unknown,Transportation
+1298,Transport for Germany,apiKey,False,unknown,Transportation
+1299,"Transport for Grenoble, France",,False,no,Transportation
+1300,"Transport for Hessen, Germany",,True,unknown,Transportation
+1301,"Transport for Honolulu, US",apiKey,False,unknown,Transportation
+1302,"Transport for Lisbon, Portugal",apiKey,True,unknown,Transportation
+1303,"Transport for London, England",apiKey,True,unknown,Transportation
+1304,"Transport for Los Angeles, US",,True,unknown,Transportation
+1305,"Transport for Manchester, England",apiKey,True,no,Transportation
+1306,Transport for Norway,,True,unknown,Transportation
+1307,"Transport for Ottawa, Canada",apiKey,True,unknown,Transportation
+1308,"Transport for Paris, France",,False,unknown,Transportation
+1309,"Transport for Philadelphia, US",,False,unknown,Transportation
+1310,"Transport for Sao Paulo, Brazil",OAuth,False,unknown,Transportation
+1311,Transport for Spain,,True,unknown,Transportation
+1312,Transport for Sweden,OAuth,True,unknown,Transportation
+1313,Transport for Switzerland,apiKey,True,unknown,Transportation
+1314,Transport for Switzerland,,True,unknown,Transportation
+1315,Transport for The Netherlands,apiKey,False,unknown,Transportation
+1316,Transport for The Netherlands,,True,unknown,Transportation
+1317,"Transport for Toronto, Canada",,True,unknown,Transportation
+1318,Transport for UK,apiKey,True,unknown,Transportation
+1319,Transport for United States,,False,unknown,Transportation
+1320,"Transport for Vancouver, Canada",OAuth,True,unknown,Transportation
+1321,"Transport for Washington, US",OAuth,True,unknown,Transportation
+1322,transport.rest,,True,yes,Transportation
+1323,Tripadvisor,apiKey,True,unknown,Transportation
+1324,Uber,OAuth,True,yes,Transportation
+1325,"Velib metropolis, Paris, France",,True,no,Transportation
+1326,1pt,,True,yes,URL Shorteners
+1327,Bitly,OAuth,True,unknown,URL Shorteners
+1328,CleanURI,,True,yes,URL Shorteners
+1329,ClickMeter,apiKey,True,unknown,URL Shorteners
+1330,Clico,apiKey,True,unknown,URL Shorteners
+1331,Cutt.ly,apiKey,True,unknown,URL Shorteners
+1332,Drivet URL Shortener,,True,unknown,URL Shorteners
+1333,Free Url Shortener,,True,unknown,URL Shorteners
+1334,Git.io,,True,unknown,URL Shorteners
+1335,GoTiny,,True,yes,URL Shorteners
+1336,Kutt,apiKey,True,yes,URL Shorteners
+1337,Mgnet.me,,True,no,URL Shorteners
+1338,owo,,True,unknown,URL Shorteners
+1339,Rebrandly,apiKey,True,unknown,URL Shorteners
+1340,Short Link,,True,unknown,URL Shorteners
+1341,Shrtcode,,True,yes,URL Shorteners
+1342,Shrtlnk,apiKey,True,yes,URL Shorteners
+1343,TinyURL,apiKey,True,no,URL Shorteners
+1344,UrlBae,apiKey,True,yes,URL Shorteners
+1345,Brazilian Vehicles and Prices,,True,no,Vehicle
+1346,Helipaddy sites,apiKey,True,unknown,Vehicle
+1347,Kelley Blue Book,apiKey,True,no,Vehicle
+1348,Mercedes-Benz,apiKey,True,no,Vehicle
+1349,NHTSA,,True,unknown,Vehicle
+1350,Smartcar,OAuth,True,yes,Vehicle
+1351,An API of Ice And Fire,,True,unknown,Video
+1352,Bob's Burgers,,True,yes,Video
+1353,Breaking Bad,,True,unknown,Video
+1354,Breaking Bad Quotes,,True,unknown,Video
+1355,Catalogopolis,,True,unknown,Video
+1356,Catch The Show,,True,unknown,Video
+1357,Czech Television,,False,unknown,Video
+1358,Dailymotion,OAuth,True,unknown,Video
+1359,Dune,,True,yes,Video
+1360,Final Space,,True,yes,Video
+1361,Game of Thrones Quotes,,True,unknown,Video
+1362,Harry Potter Charactes,,True,unknown,Video
+1363,IMDb-API,apiKey,True,unknown,Video
+1364,IMDbOT,,True,yes,Video
+1365,JSON2Video,apiKey,True,no,Video
+1366,Lucifer Quotes,,True,unknown,Video
+1367,MCU Countdown,,True,yes,Video
+1368,Motivational Quotes,,True,unknown,Video
+1369,Movie Quote,,True,yes,Video
+1370,Open Movie Database,apiKey,True,unknown,Video
+1371,Owen Wilson Wow,,True,yes,Video
+1372,Ron Swanson Quotes,,True,unknown,Video
+1373,Simkl,apiKey,True,unknown,Video
+1374,STAPI,,False,no,Video
+1375,Stranger Things Quotes,,True,unknown,Video
+1376,Stream,,True,no,Video
+1377,Stromberg Quotes,,True,unknown,Video
+1378,SWAPI,,True,yes,Video
+1379,SWAPI,,True,yes,Video
+1380,SWAPI GraphQL,,True,unknown,Video
+1381,The Lord of the Rings,apiKey,True,unknown,Video
+1382,The Vampire Diaries,apiKey,True,yes,Video
+1383,ThronesApi,,True,unknown,Video
+1384,TMDb,apiKey,True,unknown,Video
+1385,TrailerAddict,apiKey,False,unknown,Video
+1386,Trakt,apiKey,True,yes,Video
+1387,TVDB,apiKey,True,unknown,Video
+1388,TVMaze,,False,unknown,Video
+1389,uNoGS,apiKey,True,yes,Video
+1390,Vimeo,OAuth,True,unknown,Video
+1391,Watchmode,apiKey,True,unknown,Video
+1392,Web Series Quotes Generator,,True,yes,Video
+1393,YouTube,OAuth,True,unknown,Video
+1394,7Timer!,,False,unknown,Weather
+1395,AccuWeather,apiKey,False,unknown,Weather
+1396,Aemet,apiKey,True,unknown,Weather
+1397,apilayer weatherstack,apiKey,True,unknown,Weather
+1398,APIXU,apiKey,True,unknown,Weather
+1399,AQICN,apiKey,True,unknown,Weather
+1400,AviationWeather,,True,unknown,Weather
+1401,ColorfulClouds,apiKey,True,yes,Weather
+1402,Euskalmet,apiKey,True,unknown,Weather
+1403,Foreca,OAuth,True,unknown,Weather
+1404,HG Weather,apiKey,True,yes,Weather
+1405,Hong Kong Obervatory,,True,unknown,Weather
+1406,MetaWeather,,True,no,Weather
+1407,Meteorologisk Institutt,User-Agent,True,unknown,Weather
+1408,Micro Weather,apiKey,True,unknown,Weather
+1409,ODWeather,,False,unknown,Weather
+1410,Oikolab,apiKey,True,yes,Weather
+1411,Open-Meteo,,True,yes,Weather
+1412,openSenseMap,,True,yes,Weather
+1413,OpenUV,apiKey,True,unknown,Weather
+1414,OpenWeatherMap,apiKey,True,unknown,Weather
+1415,QWeather,apiKey,True,yes,Weather
+1416,RainViewer,,True,unknown,Weather
+1417,Storm Glass,apiKey,True,yes,Weather
+1418,Tomorrow,apiKey,True,unknown,Weather
+1419,US Weather,,True,yes,Weather
+1420,Visual Crossing,apiKey,True,yes,Weather
+1421,weather-api,,True,no,Weather
+1422,WeatherAPI,apiKey,True,yes,Weather
+1423,Weatherbit,apiKey,True,unknown,Weather
+1424,Yandex.Weather,apiKey,True,no,Weather
