@@ -9,10 +9,10 @@ config.read(file)
 conn = None
 try:
 	conn = pg.connect(host = config['postgresql']['hostname'],
-					  dbname = config['postgresql']['database'],
-					  user = config['postgresql']['username'],
-					  password = config['postgresql']['pwd'],
-	    			  port = config['postgresql']['port_id'])
+			  dbname = config['postgresql']['database'],
+			  user = config['postgresql']['username'],
+			  password = config['postgresql']['pwd'],
+	    		  port = config['postgresql']['port_id'])
 	cur = conn.cursor()
 	cur.execute('SELECT * FROM '+config['postgresql']['table_name'])
 	data = cur.fetchall()
